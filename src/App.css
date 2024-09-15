@@ -2,7 +2,10 @@
 
 /* Reset basic body styling */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-family: Arial, sans-serif; */
   background-color: #f0f8ff;
   margin: 0;
   padding: 20px;
